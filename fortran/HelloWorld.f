@@ -1,2 +1,3 @@
-PRINT *, "Hello World!"
-END
+program halloWelt
+write(*,*) "Hallo Welt!"
+end program halloWelt
