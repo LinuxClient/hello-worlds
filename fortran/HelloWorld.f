@@ -1,3 +1,3 @@
-program halloWelt
-write(*,*) "Hallo Welt!"
-end program halloWelt
+program helloWorld
+write(*,*) "Hello World!"
+end program helloWorld
